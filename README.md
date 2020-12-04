@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="stock-price-calculator">Stock Price Calculator</h1>
 <p>Using the data from <em>n</em> days ago, it predicts the closing stock price of the stock the next day. Written in <code>Python</code>.</p>
 <h3 id="data-analysis-toolslibraries">Data Analysis Tools/Libraries</h3>
